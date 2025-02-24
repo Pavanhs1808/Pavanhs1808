@@ -7,12 +7,12 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves buil
 - 🌱 I’m currently learning new technologies and working on improving my skills.
 - 👯 I’m looking to collaborate on exciting projects and open-source contributions.
 - 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [pavan@example.com](mailto:pavan@example.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+- 📫 How to reach me: [pavanhs990@gmail.come.com](mailto:pavanhs990@gmail.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess,playing outdore games and racing
 
 ## My Skills
 
-- **Languages:** JavaScript, Python, Java, C++
+- **Languages:** JavaScript, Python, C++
 - **Web Development:** HTML, CSS, React, Node.js
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes
