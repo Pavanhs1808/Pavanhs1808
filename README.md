@@ -31,4 +31,26 @@ A versatile Full Stack Developer passionate about creating innovative solutions 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Docker](https://img.shields.io
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pavanhs1808&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavanhs1808&theme=radical" alt="GitHub Streak" />
+</div>
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=flat)](your-portfolio-url)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:your-email)
+
+### 📌 Featured Projects
+- [Portfolio Website](https://github.com/Pavanhs1808/pavanportfolio) - Modern portfolio built with React and Tailwind CSS
+- [Add more projects...]
+
+---
+<div align="center">
+  <i>Always learning, always growing 🚀</i>
+</div>
