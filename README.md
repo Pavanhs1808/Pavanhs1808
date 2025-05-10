@@ -1,42 +1,34 @@
-# Hi there, I'm Pavan! 👋
+# Pavan HS
+## Full Stack Developer | AI/ML Enthusiast | Problem Solver
 
-Welcome to my GitHub profile! I'm a passionate software developer who loves building innovative solutions and contributing to open-source projects.
+<div align="center">
+  <img src="your-banner-image.png" alt="Banner" width="100%"/>
+</div>
 
-## About Me
+### 👨‍💻 About Me
+A versatile Full Stack Developer passionate about creating innovative solutions through web development and machine learning. I specialize in building scalable applications and implementing AI solutions.
 
-- 🌱 I’m currently learning new technologies and working on improving my skills.
-- 👯 I’m looking to collaborate on exciting projects and open-source contributions.
-- 💬 Ask me about anything related to software development.
-- 📫 How to reach me: [pavanhs990@gmail.come.com](mailto:pavanhs990@gmail.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess,playing outdore games and racing
+### 🛠️ Tech Stack
 
-## My Skills
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 
-- **Languages:** JavaScript, Python, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
-## Projects
+#### AI/ML
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
+![Computer Vision](https://img.shields.io/badge/-Computer_Vision-FF0000?style=flat)
 
-Here are some of my recent projects:
-
-### Project 1: Awesome Project
-- **Description:** A brief description of what this project does.
-- **Technologies:** JavaScript, React, Node.js
-
-### Project 2: Another Cool Project
-- **Description:** A brief description of what this project does.
-- **Technologies:** Python, Flask, MySQL
-
-## GitHub Stats
-
-![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pavanhs1808&show_icons=true&theme=radical)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/pavanhs1808/)
-- [Twitter](https://twitter.com/Pavanhs1808)
-- [Blog](https://pavanhs1808.medium.com/)
-
-Thanks for visiting my profile! Have a great day! 😊
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Docker](https://img.shields.io
