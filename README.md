@@ -1,10 +1,6 @@
 # Pavan HS
 ## Full Stack Developer | AI/ML Enthusiast | Problem Solver
 
-<div align="center">
-  <img src="your-banner-image.png" alt="Banner" width="100%"/>
-</div>
-
 ### 👨‍💻 About Me
 A versatile Full Stack Developer passionate about creating innovative solutions through web development and machine learning. I specialize in building scalable applications and implementing AI solutions.
 
