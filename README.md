@@ -1,8 +1,8 @@
 # Pavan HS
-## Full Stack Developer | AI/ML Enthusiast | Problem Solver
+## Web Developer | AI/ML Enthusiast | Rag Engineer | Problem Solver
 
 ### 👨‍💻 About Me
-A versatile Full Stack Developer passionate about creating innovative solutions through web development and machine learning. I specialize in building scalable applications and implementing AI solutions.
+A versatile Web Developer passionate about creating innovative solutions through web development and machine learning. I specialize in building scalable applications and implementing AI solutions.
 
 ### 🛠️ Tech Stack
 
@@ -44,7 +44,9 @@ A versatile Full Stack Developer passionate about creating innovative solutions 
 
 ### 📌 Featured Projects
 - [Portfolio Website](https://github.com/Pavanhs1808/pavanportfolio) - Modern portfolio built with React and Tailwind CSS
-- [Add more projects...]
+-  Dropshipping bidding website
+-  Virtual mouse with AI integration
+-  Augmented cut, copy and paste
 
 ---
 <div align="center">
