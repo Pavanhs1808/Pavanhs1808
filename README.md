@@ -20,7 +20,6 @@ A versatile Web Developer passionate about creating innovative solutions through
 
 #### AI/ML
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)
 ![Computer Vision](https://img.shields.io/badge/-Computer_Vision-FF0000?style=flat)
 
